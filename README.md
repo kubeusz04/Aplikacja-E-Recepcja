@@ -35,16 +35,25 @@ System został stworzony w oparciu o **WordPress** i zestaw wtyczek, w tym **Kiv
 - **Wtyczki:** Wszystkie wymienione powyżej.
 
 ## Instalacja
-1. **Zainstaluj XAMPP:**
-   - Pobierz i zainstaluj XAMPP.
-   - Uruchom Apache i MySQL.
-2. **Skonfiguruj WordPress:**
-   - Umieść pliki WordPress w folderze `htdocs` w katalogu instalacyjnym XAMPP.
-   - Umieść bazę danych w phpMyAdmin.
-     
-3. **Zainstaluj wtyczki:**
-   - Przejdź do **Panelu administratora > Wtyczki > Dodaj nową**.
-   - Zainstaluj i aktywuj wymienione wtyczki.
+### 1. **Pobierz pliki WordPress**
+
+- Pobierz WordPress.zip z repozytorium.
+- Skopiuj folder WordPress do folderu htdocs w XAMPP.
+
+### 2. **Utwórz bazę danych**
+
+- Zaloguj się do phpMyAdmin (http://localhost/phpmyadmin).
+- Utwórz nową bazę danych o nazwie "wordpress"
+
+### 3. **Zaimportuj bazę danych**
+
+- W phpMyAdmin zaimportuj plik `.sql` z repozytorium do nowo utworzonej bazy danych.
+
+
+### 4. **Zainstaluj wtyczki**
+
+- Zaloguj się do panelu administracyjnego WordPressa (http://localhost/nazwa_strony/wp-admin).
+- Zainstaluj wszystkie wtyczki wymienione w repozytorium (np. Elementor, KiviCare, Contact Form 7).
 
 
 ## Możliwe przyszłe plany rozwoju
