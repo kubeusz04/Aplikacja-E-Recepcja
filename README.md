@@ -11,7 +11,7 @@ System został stworzony w oparciu o **WordPress** i zestaw wtyczek, w tym **Kiv
 - **Zarządzanie wizytami:**
   - Zarządzanie godzinami pracy lekarzy:
   - Brak możliwości nakładania się wizyt.
-  - 
+    
 - **Personalizacja i bezpieczeństwo:**
   - Ukrywanie domyślnego adresu logowania WordPress dzięki wtyczce **WPS Hide Login**.
 
