@@ -38,6 +38,7 @@ System został stworzony w oparciu o **WordPress** i zestaw wtyczek, w tym **Kiv
 ### 1. **Pobierz pliki WordPress**
 
 - Pobierz WordPress.zip z repozytorium.
+https://github.com/kubeusz04/Aplikacja-do-rejestracji-pacjent-w/releases/download/Wordpress/wordpress.zip
 - Skopiuj folder WordPress do folderu htdocs w XAMPP.
 
 ### 2. **Utwórz bazę danych**
@@ -47,8 +48,8 @@ System został stworzony w oparciu o **WordPress** i zestaw wtyczek, w tym **Kiv
 
 ### 3. **Zaimportuj bazę danych**
 
-- W phpMyAdmin zaimportuj plik `.sql` z repozytorium do nowo utworzonej bazy danych.
-
+- W phpMyAdmin zaimportuj plik `.sql` z repozytorium do nowo utworzonej bazy danych. 
+https://github.com/kubeusz04/Aplikacja-do-rejestracji-pacjent-w/releases/download/Wordpress/wordpress.sql
 
 ### 4. **Zainstaluj wtyczki**
 
