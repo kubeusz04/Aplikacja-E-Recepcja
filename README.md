@@ -51,19 +51,6 @@ https://github.com/kubeusz04/Aplikacja-do-rejestracji-pacjent-w/releases/downloa
 - W phpMyAdmin zaimportuj plik `.sql` z repozytorium do nowo utworzonej bazy danych. 
 https://github.com/kubeusz04/Aplikacja-do-rejestracji-pacjent-w/releases/download/Wordpress/wordpress.sql
 
-### 4. **Zainstaluj wtyczki**
-
-- Zaloguj się do panelu administracyjnego WordPressa (http://localhost/nazwa_strony/wp-admin).
-- Zainstaluj wszystkie wtyczki wymienione w repozytorium (np. Elementor, KiviCare, Contact Form 7).
-
-
-## Możliwe przyszłe plany rozwoju
-- Dodanie systemu Powiadomień e-mail dla pacjentów i lekarzy.
-- Oddtwarzanie na urządzeniach mobilnych.
-- Optymalizacja wydajności dla obsługi większej liczby użytkowników.
-- Rozliczenia wizyt i generowanie faktur.
-- Tłumaczenie strony na inne języki (np. angielski, niemiecki) za pomocą wtyczki Polylang lub WPML.
-- Synchronizacja wizyt z Google Calendar dla lekarzy i pacjentów.
 
 ## Autorzy
 Kuba Zawadzki, Oskar Fonder, Szymon Kamiński, Albert Falęcki.
