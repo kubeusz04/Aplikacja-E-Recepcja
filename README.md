@@ -1,4 +1,4 @@
-# Aplikacja Webowa do rejestracji pacjentów i umawiania wizyt lekarskich.
+# "E - Recepcja" - Aplikacja Webowa do rejestracji pacjentów i umawiania wizyt lekarskich.
 
 System został stworzony w oparciu o **WordPress** i zestaw wtyczek, w tym **KiviCare**, umożliwiający rezerwację wizyt medycznych oraz zarządzanie pacjentami i lekarzami. Projekt działa lokalnie na serwerze XAMPP.
 
