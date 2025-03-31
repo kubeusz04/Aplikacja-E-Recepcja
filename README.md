@@ -2,7 +2,7 @@
 ## Wymagania systemowe
 - **Serwer lokalny lub hosting** z PHP 7.4+ i MySQL 5.7+. 
 - **WordPress:** Wersja 6.0 lub nowsza.
-- 
+  
 ## Instalacja Na Lokalnym Serwerze XAMPP
 ### 1. **Pobierz pliki WordPress**
 
